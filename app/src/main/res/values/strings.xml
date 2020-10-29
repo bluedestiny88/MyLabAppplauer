@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MyLabAppplauer</string>
+
+
+    <string name="edittext_signin_emailaddress">E-mail Address</string>
+    <string name="edittext_signin_emailaddresshint">Enter the e-mail address associated with your account</string>
+    <string name="edittext_signin_password">Password</string>
+    <string name="edittext_signin_passwordhint">Enter your password associated with your e-mail address</string>
+    <string name="button_signin_login">Login</string>
+    <string name="textview_signin_accountcreation">No account yet?</string>
+    <string name="button_signin_register">Register</string>
+
+    <string name="edittext_register_firstname">Enter First name</string>
+    <string name="edittext_register_lastname">Enter Last name</string>
+    <string name="edittext_register_emailaddress">E-mail address</string>
+    <string name="edittext_register_emailaddresshint">Enter e-mail address</string>
+    <string name="edittext_register_password">Password</string>
+    <string name="edittext_register_passwordhint">Enter password</string>
+    <string name="edittext_register_confirmpassword">Re-enter Password</string>
+    <string name="edittext_register_confirmpasswordhint">Re-enter password</string>
+    <string name="button_register_confirmregistration">Register</string>
+    <string name="button_register_confirmregistrationhint">Confirm registration</string>
+
+    <string name="textview_success_emailaddresshint">Account</string>
+    <string name="textview_success_emptystringhint"></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="action_link">Full Post</string>
+    <string name="title_home">Home</string>
+    <string name="title_blogs">Blogs</string>
+
+</resources>
